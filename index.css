@@ -1,0 +1,17 @@
+.special.paragraph {
+	color: brown;
+}
+
+.paragraph {
+	color: green;
+}
+
+.list {
+	background-color: bisque;
+	border: 1px solid black;
+	padding: 5px;
+}
+
+.listItem {
+	color: orange;
+}
